@@ -1,0 +1,5 @@
+.folder-list:before {
+  content: url('https://api.iconify.design/flat-color-icons/folder.svg?width=24&height=24');
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
