@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500&display=swap');
+
+body { background-image: none; font-family: 'Nunito', sans-serif; }
+.list-group { --bs-list-group-action-hover-bg: none; --bs-list-group-action-active-bg: none; }
+.folder-list:before {
+  content: url('https://api.iconify.design/ph/folder-notch-open-duotone.svg?color=%23ffe69c&width=24&height=24');
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+svg#download path { fill: #32fbe2; }
